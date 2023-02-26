@@ -1,5 +1,5 @@
 # CS6101
-Try colossal AI framework to train a model.
+Try colossal AI framework to train a model. The code is based on the tutorial of ColossalAI
 
 ## Environment requirement
 + torch
